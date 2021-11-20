@@ -1,0 +1,46 @@
+.wrapper {
+    margin: 5px;
+}
+
+.nav {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 25%;
+    padding: 10px 10px 10px 10px;
+    background-color: black;
+   
+}
+
+.nav a {
+    margin: 10px;
+    color: white;
+}
+
+.nav a:hover {
+    color: yellow
+}
+.wrapper h1 {
+    text-align: center;
+}
+body {
+    background-image: linear-gradient(to right, white, gray);
+}
+
+#exampleid {
+    background-image: linear-gradient(to bottom right, blue, lightblue);
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.margins-paddings-plus {
+    border: 2px solid black;
+    margin-top: 50px;
+    margin-right: 250px;
+    margin-bottom: 200px;
+    margin-left: 200px;
+    padding: 20px 20px 20px 40px;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
